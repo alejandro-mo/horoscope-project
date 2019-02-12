@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: #80dfff;
+}
+
+#horoscopeTitle {
+    font-size: 65px;
+}
+input {
+    border-top-color: grey;
+    width: 25rem;
+    height: 2.5rem;
+    font-size: 2rem;
+
+}
+button {
+    font-size: 1.5rem;
+}
+
+img {
+    padding-top: 10px;
+}
